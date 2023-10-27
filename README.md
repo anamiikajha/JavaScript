@@ -4,3 +4,5 @@
 - Variables & Data Types
 - Arrays
 - Object Literals
+- Methods for strings, arrays, objects
+- 
