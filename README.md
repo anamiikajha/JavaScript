@@ -6,4 +6,5 @@
 - Object Literals
 - Methods for strings, arrays, objects
 - Loops - for, while, for of, forEach, map
+- Conditionals
 - 
