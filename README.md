@@ -8,5 +8,5 @@
 - Loops - for, while, for of, forEach, map
 - Conditionals (if, ternary & switch)
 - OOP (prototypes & classes)
-- 
+- DOM selection 
 - 
