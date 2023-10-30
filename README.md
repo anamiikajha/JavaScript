@@ -5,7 +5,7 @@
 - Arrays
 - Object Literals
 - Methods for strings, arrays, objects
-- Loops - for, while, for of, forEach, map
+- Loops - for, while, for of, forEach, map, filter
 - Conditionals (if, ternary & switch)
 - OOP (prototypes & classes)
 - DOM selection 
