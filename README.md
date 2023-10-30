@@ -10,4 +10,4 @@
 - OOP (prototypes & classes)
 - DOM selection 
 - DOM manipulation
-- 
+- Events
