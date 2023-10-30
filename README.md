@@ -9,5 +9,5 @@
 - Conditionals (if, ternary & switch)
 - OOP (prototypes & classes)
 - DOM selection 
-- DOM manipu
+- DOM manipulation
 - 
