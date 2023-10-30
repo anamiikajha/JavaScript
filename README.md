@@ -11,5 +11,5 @@
 - DOM selection 
 - DOM manipulation
 - Events
-- Basic Form
-- 
+- Basic Form Validation
+  
