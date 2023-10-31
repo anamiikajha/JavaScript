@@ -1,6 +1,6 @@
 # JavaScript
 
-- This repository covers JavaScript Crash course file.
+- This repository covers JavaScript course file.
 - Variables & Data Types
 - Arrays
 - Object Literals
